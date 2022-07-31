@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AroScavengerHunt</string>
+    <string name="default_info_title">Default Title</string>
+    <string name="default_info_snippet">Default Snippet</string>
+    <string name="pick_place">Pick place</string>
+    <string name="menu_option_destination">New Destination</string>
+    <string name="option_feedback_hint">Hint</string>
+</resources>

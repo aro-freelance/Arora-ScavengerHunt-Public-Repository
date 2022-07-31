@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/option_get_place"
+        android:title="@string/menu_option_destination" />
+    <item
+        android:id="@+id/option_get_hint"
+        android:title="@string/option_feedback_hint" />
+</menu>
